@@ -9,3 +9,7 @@ set.remove();
 Get Bit
  (n & (1<<i))!=0
  
+ max int value
+   2147483647
+ min int value
+   -2147483648
