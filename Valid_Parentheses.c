@@ -2,8 +2,8 @@ bool isValid(char * s){
     int n=strlen(s);
     int set=0;
     char stack[n];
-    int back=-1,w=0;
-    
+    int back=-1;
+    int w=0;
 
     for(int i=0;i<n;i++)
     {
