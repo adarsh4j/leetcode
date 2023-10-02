@@ -1,3 +1,4 @@
+![bmi (820 x 360 px)](https://github.blog/wp-content/uploads/2022/10/hacktoberfestbanner.jpeg?fit=1200%2C630)
 # Hacktoberfest
 
 Welcome to Hacktoberfest! This repository serves as a guide to help you participate in this exciting month-long celebration of open source contributions. Hacktoberfest encourages developers of all skill levels to contribute to open source projects and make a positive impact on the global developer community.
